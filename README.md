@@ -1,6 +1,7 @@
-## Seminar at DCD404@ZJU
+## Seminar: DCD404@ZJU
 
 Seminar时间: 北京时间，周四，15：00
+
 地点：曹主201
 
 ### 5 Dec 2019
@@ -24,16 +25,21 @@ Seminar时间: 北京时间，周四，15：00
 - [Xin Yan]
 
 ### 2 Jan 2020
+- [Yifeng Huang]
+- [Xin Yan]
+- [Weike Jin]
+
+### 9 Jan 2020
 - [Chujie Lu]
 - [Shaoning Xiao]
 - [Wenbo Ma]
 
-### 9 Jan 2020
+### 16 Jan 2020
 - [Zhihong Jiang]
 - [Yunan Ye]
 - [Feifei Shao]
 
-### 16 Jan 2020
+
 - [Zhihong Jiang]
 - [Wenbo Ma]
 - [Chujie Lu]
