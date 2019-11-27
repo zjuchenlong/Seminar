@@ -5,41 +5,32 @@ Seminar时间: 北京时间，周四，15：00
 地点：曹主201
 
 ### 5 Dec 2019
-- [Shaoning Xiao]
-- [Long Chen]
 - [Xingchen Li]
+- [Yunan Ye]
 
 ### 12 Dec 2019
-- [Yunan Ye]
-- [Weike Jin]
-- [Xin Yu]
+- [Jiahui Li]
+- [Wenbo Ma]
 
 ### 19 Dec 2019
-- [Long Chen]
-- [Xingchen Li]
 - [Yifeng Huang]
+- [Feifei Shao]
 
 ### 26 Dec 2019
-- [Feifei Shao]
-- [Xin Yu]
-- [Xin Yan]
-
-### 2 Jan 2020
-- [Yifeng Huang]
-- [Xin Yan]
+- [Zhihong Jiang]
 - [Weike Jin]
 
-### 9 Jan 2020
+### 2 Jan 2020
 - [Chujie Lu]
+- [Nuanxin Hong]
+
+### 9 Jan 2020
+- [Long Chen]
 - [Shaoning Xiao]
-- [Wenbo Ma]
 
 ### 16 Jan 2020
-- [Zhihong Jiang]
-- [Yunan Ye]
-- [Feifei Shao]
+- [Xin Yu]
+- [Kaifeng Gao]
 
 ### Next Semester
-- [Zhihong Jiang]
-- [Wenbo Ma]
-- [Chujie Lu]
+- [Xin Yan]
