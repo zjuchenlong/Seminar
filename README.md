@@ -34,3 +34,5 @@ Seminar时间: 北京时间，周四，15：00
 
 ### Next Semester
 - [Xin Yan]
+- [Chengyue Huang]
+- [Xufeng Qian]
