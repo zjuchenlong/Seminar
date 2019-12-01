@@ -5,7 +5,8 @@ Seminar时间: 北京时间，周四，15：00
 地点：曹主201
 
 ### 5 Dec 2019
-- [Long Chen]
+- [Long Chen] Controllable Text-to-Image Generation. In NIPS, 2019.
+- [Long Chen] Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge. In NIPS, 2019.
 - [Yunan Ye]
 
 ### 12 Dec 2019
