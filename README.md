@@ -8,7 +8,7 @@ Seminar时间: 北京时间，周四，15：00
 - [Long Chen] MirrorGAN: Learning Text-to-image Generation by Redescription. In CVPR, 2019.
 - [Long Chen] Semantics-enhanced Adversarial Nets for Text-to-Image Synthesis. In ICCV, 2019.
 - [Long Chen] Controllable Text-to-Image Generation. In NIPS, 2019.
-- [Yunan Ye]
+- [Yunan Ye] The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision. In ICLR, 2019.
 
 ### 12 Dec 2019
 - [Jiahui Li]
