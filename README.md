@@ -13,7 +13,12 @@ Seminar时间: 北京时间，周四，15：00
 ### 12 Dec 2019
 - [Jiahui Li] Reinforced Dynamic Reasoning for Conversational Question Generation. In ACL, 2019.
 - [Jiahui Li] Multi-hop Reading Comprehension through Question Decomposition and Rescoring. In ACL, 2019.
-- [Wenbo Ma]
+- [Wenbo Ma] Grounding of Textual Phrases in Images by Reconstruction. In ECCV, 2016.
+- [Wenbo Ma] Modeling Relationships in Referential Expressions with Compositional Modular Networks. In CVPR, 2017.
+- [Wenbo Ma] MAttNet: Modular Attention Network for Referring Expression Comprehension. In CVPR, 2018.
+- [Wenbo Ma] Zero-Shot Grounding of Objects from Natural Language Queries. In ICCV, 2019.
+
+  
 
 ### 19 Dec 2019
 - [Yifeng Huang]
