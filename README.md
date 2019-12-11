@@ -11,7 +11,8 @@ Seminar时间: 北京时间，周四，15：00
 - [Yunan Ye] The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision. In ICLR, 2019.
 
 ### 12 Dec 2019
-- [Jiahui Li]
+- [Jiahui Li] Reinforced Dynamic Reasoning for Conversational Question Generation. In ACL, 2019.
+- [Jiahui Li] Multi-hop Reading Comprehension through Question Decomposition and Rescoring. In ACL, 2019.
 - [Wenbo Ma]
 
 ### 19 Dec 2019
