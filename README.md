@@ -21,7 +21,7 @@ Seminar时间: 北京时间，周四，15：00
   
 
 ### 19 Dec 2019
-- [Yifeng Huang]
+- [Yifeng Huang] Scene Graph Prediction With Limited Labels. In ICCV, 2019.
 - [Feifei Shao] A Robust Learning Approach to Domain Adaptive Object Detection. In ICCV, 2019.
 - [Feifei Shao] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection. In ICCV, 2019.
 - [Feifei Shao] Few-shot Object Detection via Feature Reweighting. In ICCV, 2019.
