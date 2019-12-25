@@ -28,7 +28,9 @@ Seminar时间: 北京时间，周四，15：00
 - [Feifei Shao] Weakly Supervise Deep Detection Network. In CVPR, 2016.
 
 ### 26 Dec 2019
-- [Zhihong Jiang]
+- [Zhihong Jiang] Towards Diverse and Natural Image Descriptions via a Conditional GAN. In ICCV, 2017.
+- [Zhihong Jiang] Describe like Humans: on Diversity in Image Captioning. In CVPR, 2019.
+- [Zhihong Jiang] Fast, Diverse and Accurate Image Captioning Guided By Prat-of-Speech. In CVPR, 2019.
 - [Weike Jin]
 
 ### 2 Jan 2020
