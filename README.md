@@ -36,8 +36,10 @@ Seminar时间: 北京时间，周四，15：00
 - [Weike Jin] Relation-Aware Graph Attention Network for Visual Question Answering. In ICCV, 2019.
 
 ### 2 Jan 2020
-- [Chujie Lu]
-- [Nuanxin Hong]
+- [Chujie Lu] DEBUG: A Dense Bottom-Up Grounding Approach for Natural Language Video Localization. In EMNLP, 2019.
+- [Chujie Lu] Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language. In AAAI, 2020.
+- [Nuanxin Hong] EnlightenGAN: Deep Light Enhancement without Paired Supervision. In arXiv, 2019.
+- [Nuanxin Hong] Underexposed Photo Enhancement using Deep Illumination Estimation. In CVPR, 2019.
 
 ### 9 Jan 2020
 - [Xingchen Li]
