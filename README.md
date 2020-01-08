@@ -42,7 +42,8 @@ Seminar时间: 北京时间，周四，15：00
 - [Nuanxin Hong] Underexposed Photo Enhancement using Deep Illumination Estimation. In CVPR, 2019.
 
 ### 9 Jan 2020
-- [Xingchen Li]
+- [Xin Yan] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. In CVPR, 2019.
+- [Xin Yan] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. In CVPR, 2017.
 - [Shaoning Xiao]
 
 ### 16 Jan 2020
@@ -50,6 +51,6 @@ Seminar时间: 北京时间，周四，15：00
 - [Kaifeng Gao]
 
 ### Next Semester
-- [Xin Yan]
+- [Xingchen Li]
 - [Chengyue Huang]
 - [Xufeng Qian]
