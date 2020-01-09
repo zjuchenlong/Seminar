@@ -44,7 +44,8 @@ Seminar时间: 北京时间，周四，15：00
 ### 9 Jan 2020
 - [Xin Yan] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. In CVPR, 2019.
 - [Xin Yan] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. In CVPR, 2017.
-- [Shaoning Xiao]
+- [Shaoning Xiao] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In NAACL, 2019.
+- [Shaoning Xiao] Attention is All You Need. In NIPS, 2017.
 
 ### 16 Jan 2020
 - [Xin Yu]
