@@ -48,8 +48,9 @@ Seminar时间: 北京时间，周四，15：00
 - [Shaoning Xiao] Attention is All You Need. In NIPS, 2017.
 
 ### 16 Jan 2020
-- [Xin Yu]
-- [Kaifeng Gao]
+- [Xin Yu] Visual reasoning by progressive module networks. In ICLR, 2019.
+- [Xin Yu] CLEVRER: CoLlision Events for Video REpresentation and Reasoning. In ICLR, 2020.
+- [Kaifeng Gao] Training and inference with integers in deep neural networks. In ICLR, 2018.
 
 ### Next Semester
 - [Xingchen Li]
